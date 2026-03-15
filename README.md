@@ -81,9 +81,8 @@ I am particularly interested in **designing intelligent systems that combine mac
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceKumarIITJ&theme=default"/>
 
 </p>
 
@@ -93,11 +92,11 @@ I am particularly interested in **designing intelligent systems that combine mac
 
 <p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/prince-kumar-iitj/">
 <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat-square&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:prince29.iitj@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"/>
 </a>
 
